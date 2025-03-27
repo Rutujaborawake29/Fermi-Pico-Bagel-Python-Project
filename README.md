@@ -28,18 +28,6 @@ The game is implemented in Python and structured in the following steps:
 - **Step 5**: Generate hints using `"Fermi"`, `"Pico"`, and `"Bagel"`.  
 - **Step 6**: Loop until the player wins.  
 
-## 🖥️ How to Run the Game  
-1. **Clone this repository**:  
-   ```bash
-   git clone https://github.com/yourusername/Fermi_Pico_Bagel.git
-   cd Fermi_Pico_Bagel
-   ```
-2. **Run the Python script**:  
-   ```bash
-   python fermi_pico_bagel.py
-   ```
-3. **Follow the prompts** to play the game.  
-
 ## 🏆 Example Gameplay  
 ```plaintext
 Enter your guess: 297  
